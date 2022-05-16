@@ -1,5 +1,7 @@
 # PCF-Services
 
+![](/pcfServices.png)
+
 i) Npcf_AMPolicyControl
 
 It provides AMF with policy information about the UE or provides the access and mobility related policy information to the UE. In addition, it also provide access selection policy, which dictates that which radio access technology should get priority in a given context. It also have different service operation such as 
